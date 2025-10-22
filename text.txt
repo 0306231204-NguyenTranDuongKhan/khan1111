@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello hau
+=======
+hello huy
+>>>>>>> nhanhA
